@@ -1,4 +1,4 @@
-package com.events;
+package com.example.events;
 
 public class Metadata {
 //class for testing and tracing

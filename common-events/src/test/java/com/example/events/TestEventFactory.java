@@ -1,9 +1,5 @@
 package com.example.events;
 
-import com.events.DataPayload;
-import com.events.Metadata;
-import com.events.OrderCreatedEvent;
-
 import java.time.Instant;
 import java.util.UUID;
 

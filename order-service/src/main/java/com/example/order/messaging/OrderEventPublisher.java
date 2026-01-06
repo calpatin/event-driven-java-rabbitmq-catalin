@@ -1,8 +1,8 @@
 package com.example.order.messaging;
 
-import com.events.DataPayload;
-import com.events.Metadata;
-import com.events.OrderCreatedEvent;
+import com.example.events.DataPayload;
+import com.example.events.Metadata;
+import com.example.events.OrderCreatedEvent;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.stereotype.Component;
 

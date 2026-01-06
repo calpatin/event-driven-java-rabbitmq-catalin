@@ -1,4 +1,4 @@
-package com.events;
+package com.example.events;
 
 public class DataPayload {
 // class for payload business

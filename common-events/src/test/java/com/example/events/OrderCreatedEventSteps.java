@@ -1,8 +1,5 @@
 package com.example.events;
 
-import com.events.InvalidPayloadException;
-import com.events.OrderCreatedEvent;
-import com.events.OrderCreatedValidator;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

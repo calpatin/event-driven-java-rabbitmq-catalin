@@ -1,4 +1,4 @@
-package com.events;
+package com.example.events;
 
 import java.time.Instant;
 import java.util.UUID;
